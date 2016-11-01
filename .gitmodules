@@ -1,0 +1,3 @@
+[submodule "hypertools"]
+	path = hypertools
+	url = https://github.com/ContextLab/hyper-tools.git
