@@ -7,3 +7,6 @@
 [submodule "EEGrunt"]
 	path = EEGrunt
 	url = https://github.com/curiositry/EEGrunt
+[submodule "hyper-tools"]
+	path = hyper-tools
+	url = https://github.com/ContextLab/hyper-tools.git
