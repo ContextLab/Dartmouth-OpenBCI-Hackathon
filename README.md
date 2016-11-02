@@ -50,7 +50,9 @@ your sub-project into a series of sub-tasks.
 
 As you finish a task or get stuck, update the
 [main project board](https://github.com/ContextLab/Dartmouth-OpenBCI-Hackathon/projects/1).
-Also add any notes and/or usage examples to the [API](http://tinyurl.com/hmolv53).
+Also add any notes and/or usage examples to the
+[API](http://tinyurl.com/hmolv53).  Then create a pull request to
+merge your branch into the main channel so that everyone can use your function(s).
 
 
 # Implementation notes
