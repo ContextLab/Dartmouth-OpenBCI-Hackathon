@@ -23,7 +23,9 @@ Goal: create a visualization of streaming OpenBCI data.
    Enthought Canopy as your project's Python interpreter.
 
 ### Working notes
-The project is divided into two primary tasks ([proposed API](http://tinyurl.com/hmolv53)):
+The project is divided into two primary tasks
+([proposed API](http://tinyurl.com/hmolv53)):
+
 1. Write streaming data to a file, using OpenBCI_Python
    ([PROJECT BOARD](https://github.com/ContextLab/Dartmouth-OpenBCI-Hackathon/projects/2);
    [SLACK CHANNEL](https://brainhaxorz.slack.com/archives/data-streaming); branch: *streamdata*)
@@ -32,6 +34,7 @@ The project is divided into two primary tasks ([proposed API](http://tinyurl.com
    [SLACK CHANNEL](https://brainhaxorz.slack.com/archives/data-visualization); branch: *plotdata*)
 
 If time, we will try to implement a third task:
+
 1. Read a series of samples from the data stream and return a feature
 vector comprising spectral freatures at each
 electrode. ([PROJECT BOARD](https://github.com/ContextLab/Dartmouth-OpenBCI-Hackathon/projects/4);
