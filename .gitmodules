@@ -4,3 +4,6 @@
 [submodule "OpenBCI_Python"]
 	path = OpenBCI_Python
 	url = https://github.com/OpenBCI/OpenBCI_Python.git
+[submodule "EEGrunt"]
+	path = EEGrunt
+	url = https://github.com/curiositry/EEGrunt
