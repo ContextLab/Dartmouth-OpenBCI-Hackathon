@@ -1,0 +1,13 @@
+numpy
+scipy
+nibabel
+nilearn
+seaborn
+mne
+matplotlib
+ipython
+pandas
+sympy
+nose
+theano
+jupyter
