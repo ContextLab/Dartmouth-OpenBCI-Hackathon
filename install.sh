@@ -12,3 +12,6 @@ echo "INSTALLING OPENBCI_PYTHON PACKAGES"
 pip install -r requirements.txt
 
 cd ../
+
+echo "UPGRADING NUMPY TO LATEST VERSION"
+pip install numpy --upgrade
