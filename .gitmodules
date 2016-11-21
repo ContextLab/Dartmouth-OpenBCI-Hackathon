@@ -1,3 +1,6 @@
 [submodule "hyper-tools"]
 	path = hyper-tools
 	url = https://github.com/ContextLab/hyper-tools.git
+[submodule "OpenBCI_Python"]
+	path = OpenBCI_Python
+	url = https://github.com/yarikoptic/OpenBCI_Python.git
