@@ -19,7 +19,7 @@ Goal: create a visualization of streaming OpenBCI data.
    dependencies and set up your Python path to include the relevant
    toolbox packages.
 1. Install [PyCharm CE](https://www.jetbrains.com/pycharm/download/) or
-   another Python IDE of your choise.  Set up your environment to use
+   another Python IDE of your choice.  Set up your environment to use
    Enthought Canopy as your project's Python interpreter.
 
 ### Working notes
