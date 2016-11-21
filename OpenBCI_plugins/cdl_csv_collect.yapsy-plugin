@@ -1,0 +1,8 @@
+[Core]
+Name = cdl_csv_collect
+Module = cdl_csv_collect
+
+[Documentation]
+Author = Various from Context Dynamic Lab and friends
+Version = 0.1
+Description = Write cvs data in an enriched CSV format (mimicing java file output)
