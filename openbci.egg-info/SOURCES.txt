@@ -1,0 +1,6 @@
+openbci.py
+openbci.egg-info/PKG-INFO
+openbci.egg-info/SOURCES.txt
+openbci.egg-info/dependency_links.txt
+openbci.egg-info/requires.txt
+openbci.egg-info/top_level.txt
